@@ -1,0 +1,35 @@
+body{
+    font-family: Arial, sans-serif;
+  }
+  
+  h1{
+    text-align: center;
+  }
+  
+  table{
+    width: 80%;
+    margin: 0 auto;
+    border-collapse: collapse;
+  }
+  
+  th,td{
+    border: 1px solid #ddd;
+    padding: 8px;
+  }
+  
+  th{
+    background-color: #f2f2f2;
+    text-align: left;
+  }
+  
+  #td-criptografia {
+    background-color: #ff9999;
+  }
+  
+  #td-firewalls {
+    background-color: #99ff99;
+  }
+  
+  #td-antivirus {
+    background-color: #9999ff;
+  }
